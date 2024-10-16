@@ -22,6 +22,8 @@ namespace Carrental
             var connectionstring = builder.Configuration.GetConnectionString("CarConnection");
             builder.Services.AddScoped<ICustomerRepository>(provider=>new CustomerRepository(connectionstring));
             builder.Services.AddScoped<ICustomerService, CustomerService>();
+            builder.Services.AddScoped<IManagerRepository>(provider => new ManagerRepository(connectionstring));
+            builder.Services.AddScoped<IManagerService, ManagerService>();
 
 
             var app = builder.Build();

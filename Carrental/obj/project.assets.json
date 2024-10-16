@@ -4559,19 +4559,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\canee\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\Carrental.csproj",
+      "projectUniqueName": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Carrental.csproj",
       "projectName": "Carrental",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\Carrental.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\obj\\",
+      "projectPath": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Carrental.csproj",
+      "packagesPath": "C:\\Users\\canee\\.nuget\\packages\\",
+      "outputPath": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\canee\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
