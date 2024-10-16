@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|d:\\canee software practicals\\ms 2 final\\carrental_backendm02\\carrental\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|d:\\canee software practicals\\ms 2 final\\carrental_backendm02\\carrental\\repositoies\\managerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\repositoies\\managerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|d:\\canee software practicals\\ms 2 final\\carrental_backendm02\\carrental\\services\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\services\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|d:\\canee software practicals\\ms 2 final\\carrental_backendm02\\carrental\\repositoies\\managerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\repositoies\\managerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|d:\\canee software practicals\\ms 2 final\\carrental_backendm02\\carrental\\isservices\\imanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\isservices\\imanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|d:\\canee software practicals\\ms 2 final\\carrental_backendm02\\carrental\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|d:\\canee software practicals\\ms 2 final\\carrental_backendm02\\carrental\\irepositries\\imanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\irepositries\\imanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|d:\\canee software practicals\\ms 2 final\\carrental_backendm02\\carrental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|d:\\canee software practicals\\ms 2 final\\carrental_backendm02\\carrental\\irepositries\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\irepositries\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|d:\\canee software practicals\\ms 2 final\\carrental_backendm02\\carrental\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|d:\\canee software practicals\\ms 2 final\\carrental_backendm02\\carrental\\isservices\\imanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\isservices\\imanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|d:\\canee software practicals\\ms 2 final\\carrental_backendm02\\carrental\\dtos\\responcedto\\rentalresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|d:\\canee software practicals\\ms 2 final\\carrental_backendm02\\carrental\\dtos\\requestdto\\customerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\dtos\\requestdto\\customerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|d:\\canee software practicals\\ms 2 final\\carrental_backendm02\\carrental\\irepositries\\imanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\irepositries\\imanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|d:\\canee software practicals\\ms 2 final\\carrental_backendm02\\carrental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,35 +62,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "RentalRequestDTO.cs",
-              "DocumentMoniker": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Dtos\\RequestDTO\\RentalRequestDTO.cs",
-              "RelativeDocumentMoniker": "Carrental\\Dtos\\RequestDTO\\RentalRequestDTO.cs",
-              "ToolTip": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Dtos\\RequestDTO\\RentalRequestDTO.cs",
-              "RelativeToolTip": "Carrental\\Dtos\\RequestDTO\\RentalRequestDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\IRepositries\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Carrental\\IRepositries\\ICustomerRepository.cs",
+              "ToolTip": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\IRepositries\\ICustomerRepository.cs",
+              "RelativeToolTip": "Carrental\\IRepositries\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:01:02.436Z"
+              "WhenOpened": "2024-10-16T12:03:11.926Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RentalResponseDTO.cs",
-              "DocumentMoniker": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Dtos\\ResponceDTO\\RentalResponseDTO.cs",
-              "RelativeDocumentMoniker": "Carrental\\Dtos\\ResponceDTO\\RentalResponseDTO.cs",
-              "ToolTip": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Dtos\\ResponceDTO\\RentalResponseDTO.cs",
-              "RelativeToolTip": "Carrental\\Dtos\\ResponceDTO\\RentalResponseDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:00:11.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Rental.cs",
               "DocumentMoniker": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Entities\\Rental.cs",
               "RelativeDocumentMoniker": "Carrental\\Entities\\Rental.cs",
@@ -98,15 +91,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "IManagerService.cs",
               "DocumentMoniker": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\IsServices\\IManagerService.cs",
               "RelativeDocumentMoniker": "Carrental\\IsServices\\IManagerService.cs",
               "ToolTip": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\IsServices\\IManagerService.cs",
               "RelativeToolTip": "Carrental\\IsServices\\IManagerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:44:14.034Z"
+              "WhenOpened": "2024-10-16T09:44:14.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -116,38 +110,90 @@
               "RelativeDocumentMoniker": "Carrental\\Services\\ManagerService.cs",
               "ToolTip": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Services\\ManagerService.cs",
               "RelativeToolTip": "Carrental\\Services\\ManagerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAxAAAA",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAAAIoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:42:56.369Z"
+              "WhenOpened": "2024-10-16T09:42:56.369Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ManagerController.cs",
               "DocumentMoniker": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Controllers\\ManagerController.cs",
               "RelativeDocumentMoniker": "Carrental\\Controllers\\ManagerController.cs",
               "ToolTip": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Controllers\\ManagerController.cs",
               "RelativeToolTip": "Carrental\\Controllers\\ManagerController.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "ViewState": "AQIAAE8AAAAAAAAAAAA2wGIAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T09:43:22.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "IManagerRepository.cs",
+              "DocumentMoniker": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\IRepositries\\IManagerRepository.cs",
+              "RelativeDocumentMoniker": "Carrental\\IRepositries\\IManagerRepository.cs",
+              "ToolTip": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\IRepositries\\IManagerRepository.cs",
+              "RelativeToolTip": "Carrental\\IRepositries\\IManagerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:43:55.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Program.cs",
+              "RelativeDocumentMoniker": "Carrental\\Program.cs",
+              "ToolTip": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Program.cs",
+              "RelativeToolTip": "Carrental\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:45:03.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ManagerRepository.cs",
               "DocumentMoniker": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Repositoies\\ManagerRepository.cs",
               "RelativeDocumentMoniker": "Carrental\\Repositoies\\ManagerRepository.cs",
               "ToolTip": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Repositoies\\ManagerRepository.cs",
               "RelativeToolTip": "Carrental\\Repositoies\\ManagerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHMAAAAgAAAA",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAiwPIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:42:27.505Z"
+              "WhenOpened": "2024-10-16T09:42:27.505Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "RentalResponseDTO.cs",
+              "DocumentMoniker": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Dtos\\ResponceDTO\\RentalResponseDTO.cs",
+              "RelativeDocumentMoniker": "Carrental\\Dtos\\ResponceDTO\\RentalResponseDTO.cs",
+              "ToolTip": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Dtos\\ResponceDTO\\RentalResponseDTO.cs",
+              "RelativeToolTip": "Carrental\\Dtos\\ResponceDTO\\RentalResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:00:11.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RentalRequestDTO.cs",
+              "DocumentMoniker": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Dtos\\RequestDTO\\RentalRequestDTO.cs",
+              "RelativeDocumentMoniker": "Carrental\\Dtos\\RequestDTO\\RentalRequestDTO.cs",
+              "ToolTip": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Dtos\\RequestDTO\\RentalRequestDTO.cs",
+              "RelativeToolTip": "Carrental\\Dtos\\RequestDTO\\RentalRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:01:02.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Carrental\\Controllers\\CustomerController.cs",
@@ -159,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "CustomerResponceDTO.cs",
               "DocumentMoniker": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Dtos\\ResponceDTO\\CustomerResponceDTO.cs",
               "RelativeDocumentMoniker": "Carrental\\Dtos\\ResponceDTO\\CustomerResponceDTO.cs",
@@ -171,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "CustomerRequestDTO.cs",
               "DocumentMoniker": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Dtos\\RequestDTO\\CustomerRequestDTO.cs",
               "RelativeDocumentMoniker": "Carrental\\Dtos\\RequestDTO\\CustomerRequestDTO.cs",
@@ -180,30 +226,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T10:03:51.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Program.cs",
-              "RelativeDocumentMoniker": "Carrental\\Program.cs",
-              "ToolTip": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\Program.cs",
-              "RelativeToolTip": "Carrental\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:45:03.095Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IManagerRepository.cs",
-              "DocumentMoniker": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\IRepositries\\IManagerRepository.cs",
-              "RelativeDocumentMoniker": "Carrental\\IRepositries\\IManagerRepository.cs",
-              "ToolTip": "D:\\Canee Software Practicals\\MS 2 Final\\CarRental_backendM02\\Carrental\\IRepositries\\IManagerRepository.cs",
-              "RelativeToolTip": "Carrental\\IRepositries\\IManagerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:43:55.462Z"
             }
           ]
         }

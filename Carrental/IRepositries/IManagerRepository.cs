@@ -6,7 +6,11 @@ namespace Carrental.IRepositries
     {
         Task<List<Rental>> GetAllRentals();
         Task<Rental> GetRentalByID(Guid rentalId);
+        Task<List<Rental>> GetAllRentalsByCustomerID(Guid customerId);
         Task<Rental> AddRental(Rental rental);
-        Task<Rental> RentalAccept(Rental rental);
+        Task<Rental> AcceptRental(Rental rental);
+        Task<Rental> RejectRental(Guid id);
+        Task<Rental> UpdateReturn(Rental rental);
+        Task<List<Guid>> CheckAndUpdateOverdueRentals();
     }
 }

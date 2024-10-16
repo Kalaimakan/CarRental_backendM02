@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Carrental")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ee5fde3d7ebe7230dbe7359ab556ce998a488af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e03c1650bb65f0c393d01870512a4ef54f5ba2eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Carrental")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Carrental")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

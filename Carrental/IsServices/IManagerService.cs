@@ -7,7 +7,12 @@ namespace Carrental.IsServices
     {
         Task<List<RentalResponseDTO>> GetAllRentals();
         Task<RentalResponseDTO> GetRentalById(Guid id);
+        Task<List<RentalResponseDTO>> GetAllRentalsByCustomerId(Guid customerId);
+
         Task<RentalResponseDTO> AddRental(RentalRequestDTO rentalRequestDTO);
-        Task<RentalResponseDTO> RentalAccept(Guid id);
+        Task<RentalResponseDTO> AcceptRental(Guid id);
+        Task<bool> RejectRental(Guid rentalid);
+        Task<RentalResponseDTO> UpdateReturn(Guid id);
+        Task<List<Guid>> CheckAndUpdateOverdueRentals();
     }
 }

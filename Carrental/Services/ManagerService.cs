@@ -58,6 +58,31 @@ namespace Carrental.Services
             return rentalresp;
         }
 
+        public async Task<List<RentalResponseDTO>> GetAllRentalsByCustomerId(Guid customerId)
+        {
+            var rentals = await _Repository.GetAllRentalsByCustomerID(customerId);
+
+            var rentaldata = new List<RentalResponseDTO>();
+
+            foreach (var data in rentals)
+            {
+                var rentalresp = new RentalResponseDTO
+                {
+                    id = data.id,
+                    CustomerId = data.CustomerId,
+                    CCarId = data.CCarId,
+                    ReturnDate = data.ReturnDate,
+                    Status = data.Status,
+                    OverDue = data.OverDue,
+                    RentalDate = data.RentalDate,
+                };
+
+                rentaldata.Add(rentalresp);
+            }
+            return rentaldata;
+        }
+
+
         public async Task<RentalResponseDTO> AddRental(RentalRequestDTO rentalRequestDTO)
         {
             var rental = new Rental
@@ -84,12 +109,12 @@ namespace Carrental.Services
             return rentalresp;
         }
 
-        public async Task<RentalResponseDTO> RentalAccept(Guid id)
+        public async Task<RentalResponseDTO> AcceptRental(Guid id)
         {
             var Rentdata = await _Repository.GetRentalByID(id);
             if (Rentdata.Status == "Pending")
             {
-                var data = await _Repository.RentalAccept(Rentdata);
+                var data = await _Repository.AcceptRental(Rentdata);
 
                 var RentalRespon = new RentalResponseDTO
                 {
@@ -110,5 +135,49 @@ namespace Carrental.Services
             }
         }
 
+
+        public async Task<bool> RejectRental(Guid rentalid)
+        {
+            var rental = await _Repository.GetRentalByID(rentalid);
+            if (rental == null) return false;
+
+            await _Repository.RejectRental(rentalid);
+            return true;
+        }
+
+
+        public async Task<RentalResponseDTO> UpdateReturn(Guid id)
+        {
+            var Rentdata = await _Repository.GetRentalByID(id);
+            if (Rentdata.Status == "Rent")
+            {
+                var data = await _Repository.UpdateReturn(Rentdata);
+
+                var RentalRespon = new RentalResponseDTO
+                {
+                    id = data.id,
+                    CustomerId = data.CustomerId,
+                    CCarId = data.CCarId,
+                    Status = data.Status,
+                    OverDue = data.OverDue,
+                    RentalDate = data.RentalDate,
+                    ReturnDate = data.ReturnDate,
+                };
+
+                return RentalRespon;
+            }
+            else
+            {
+                return null;
+            }
+        }
+
+
+        public async Task<List<Guid>> CheckAndUpdateOverdueRentals()
+        {
+            var overdue = await _Repository.CheckAndUpdateOverdueRentals();
+            if (overdue == null) return null;
+            return overdue;
+        }
     }
 }
