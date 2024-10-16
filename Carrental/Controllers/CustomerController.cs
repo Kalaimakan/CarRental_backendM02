@@ -23,5 +23,40 @@ namespace Carrental.Controllers
             var data=await _customerService.AddCustomer(customerRequestDTO);
             return Ok(data);
         }
+
+        [HttpGet("GetAllCustomer")]
+        public async Task<IActionResult> GetAllCustomer()
+        {       
+                var result = await _customerService.GetAllCustomer();
+                return Ok(result);     
+           
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateCustomerByID(Guid id, CustomerRequestDTO customerRequestDTO)
+        {
+            var result = await _customerService.UpdateCustomerByID(id, customerRequestDTO);
+            if (result == null)
+                return NotFound("Customer not found");
+                return Ok(result);       
+         
+        }
+
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteCustomer(Guid id)
+        {
+            var result = await _customerService.DeleteCustomer(id);
+
+            if (result)
+                return NoContent(); 
+            else
+                return NotFound(); 
+        }
+
+
+
     }
+
+ 
 }
