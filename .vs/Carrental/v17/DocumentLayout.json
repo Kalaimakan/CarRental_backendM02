@@ -1,30 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Carrental\\",
+  "WorkspaceRootPath": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|c:\\users\\asus\\desktop\\carrental\\carrental\\repositoies\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|e:\\back-end 18.10\\merge\\carrental_backendm02\\carrental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|e:\\back-end 18.10\\merge\\carrental_backendm02\\carrental\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|e:\\back-end 18.10\\merge\\carrental_backendm02\\carrental\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|e:\\back-end 18.10\\merge\\carrental_backendm02\\carrental\\repositoies\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\repositoies\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|c:\\users\\asus\\desktop\\carrental\\carrental\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|e:\\back-end 18.10\\merge\\carrental_backendm02\\carrental\\repositoies\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\repositoies\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|c:\\users\\asus\\desktop\\carrental\\carrental\\isservices\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|e:\\back-end 18.10\\merge\\carrental_backendm02\\carrental\\isservices\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\isservices\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|c:\\users\\asus\\desktop\\carrental\\carrental\\irepositries\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|e:\\back-end 18.10\\merge\\carrental_backendm02\\carrental\\isservices\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\isservices\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|e:\\back-end 18.10\\merge\\carrental_backendm02\\carrental\\irepositries\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\irepositries\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|c:\\users\\asus\\desktop\\carrental\\carrental\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|e:\\back-end 18.10\\merge\\carrental_backendm02\\carrental\\irepositries\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\irepositries\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|e:\\back-end 18.10\\merge\\carrental_backendm02\\carrental\\entities\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\entities\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|e:\\back-end 18.10\\merge\\carrental_backendm02\\carrental\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|e:\\back-end 18.10\\merge\\carrental_backendm02\\carrental\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|e:\\back-end 18.10\\merge\\carrental_backendm02\\carrental\\dtos\\responcedto\\carresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\dtos\\responcedto\\carresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|e:\\back-end 18.10\\merge\\carrental_backendm02\\carrental\\dtos\\requestdto\\customerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\dtos\\requestdto\\customerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|e:\\back-end 18.10\\merge\\carrental_backendm02\\carrental\\dtos\\requestdto\\carrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\dtos\\requestdto\\carrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|e:\\back-end 18.10\\merge\\carrental_backendm02\\carrental\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|c:\\users\\asus\\desktop\\carrental\\carrental\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|e:\\back-end 18.10\\merge\\carrental_backendm02\\carrental\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|e:\\back-end 18.10\\merge\\carrental_backendm02\\carrental\\dtos\\responcedto\\customerresponcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41BD0B-3F4C-4632-819E-0D1A6C4CE859}|Carrental\\Carrental.csproj|solutionrelative:carrental\\dtos\\responcedto\\customerresponcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +82,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carservice.cs",
+              "DocumentMoniker": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Services\\Carservice.cs",
+              "RelativeDocumentMoniker": "Carrental\\Services\\Carservice.cs",
+              "ToolTip": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Services\\Carservice.cs",
+              "RelativeToolTip": "Carrental\\Services\\Carservice.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:10:20.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Entities\\Rental.cs",
+              "RelativeDocumentMoniker": "Carrental\\Entities\\Rental.cs",
+              "ToolTip": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Entities\\Rental.cs",
+              "RelativeToolTip": "Carrental\\Entities\\Rental.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:02:23.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Icarrepository.cs",
+              "DocumentMoniker": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\IRepositries\\Icarrepository.cs",
+              "RelativeDocumentMoniker": "Carrental\\IRepositries\\Icarrepository.cs",
+              "ToolTip": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\IRepositries\\Icarrepository.cs",
+              "RelativeToolTip": "Carrental\\IRepositries\\Icarrepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:03:23.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\IRepositries\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Carrental\\IRepositries\\ICustomerRepository.cs",
+              "ToolTip": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\IRepositries\\ICustomerRepository.cs",
+              "RelativeToolTip": "Carrental\\IRepositries\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:05:27.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Icarservice.cs",
+              "DocumentMoniker": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\IsServices\\Icarservice.cs",
+              "RelativeDocumentMoniker": "Carrental\\IsServices\\Icarservice.cs",
+              "ToolTip": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\IsServices\\Icarservice.cs",
+              "RelativeToolTip": "Carrental\\IsServices\\Icarservice.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:03:45.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\IsServices\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Carrental\\IsServices\\ICustomerService.cs",
+              "ToolTip": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\IsServices\\ICustomerService.cs",
+              "RelativeToolTip": "Carrental\\IsServices\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:05:29.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carrepository.cs",
+              "DocumentMoniker": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Repositoies\\Carrepository.cs",
+              "RelativeDocumentMoniker": "Carrental\\Repositoies\\Carrepository.cs",
+              "ToolTip": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Repositoies\\Carrepository.cs",
+              "RelativeToolTip": "Carrental\\Repositoies\\Carrepository.cs",
+              "ViewState": "AQIAANYAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:51:59.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Carrental\\Services\\CustomerService.cs",
+              "ToolTip": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Carrental\\Services\\CustomerService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:17:38.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Program.cs",
+              "RelativeDocumentMoniker": "Carrental\\Program.cs",
+              "ToolTip": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Program.cs",
+              "RelativeToolTip": "Carrental\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:08:07.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\Entities\\Customer.cs",
+              "DocumentMoniker": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "Carrental\\Entities\\Customer.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\Entities\\Customer.cs",
+              "ToolTip": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Entities\\Customer.cs",
               "RelativeToolTip": "Carrental\\Entities\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,68 +216,117 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\IsServices\\ICustomerService.cs",
-              "RelativeDocumentMoniker": "Carrental\\IsServices\\ICustomerService.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\IsServices\\ICustomerService.cs",
-              "RelativeToolTip": "Carrental\\IsServices\\ICustomerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "DocumentIndex": 11,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "Carrental\\Entities\\Car.cs",
+              "ToolTip": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Entities\\Car.cs",
+              "RelativeToolTip": "Carrental\\Entities\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T08:05:29.622Z",
+              "WhenOpened": "2024-10-17T06:00:16.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ICustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\IRepositries\\ICustomerRepository.cs",
-              "RelativeDocumentMoniker": "Carrental\\IRepositries\\ICustomerRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\IRepositries\\ICustomerRepository.cs",
-              "RelativeToolTip": "Carrental\\IRepositries\\ICustomerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Repositoies\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Carrental\\Repositoies\\CustomerRepository.cs",
+              "ToolTip": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Repositoies\\CustomerRepository.cs",
+              "RelativeToolTip": "Carrental\\Repositoies\\CustomerRepository.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAAwAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T08:05:27.707Z",
+              "WhenOpened": "2024-10-16T07:17:36.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
+              "Title": "carresponseDTO.cs",
+              "DocumentMoniker": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Dtos\\ResponceDTO\\carresponseDTO.cs",
+              "RelativeDocumentMoniker": "Carrental\\Dtos\\ResponceDTO\\carresponseDTO.cs",
+              "ToolTip": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Dtos\\ResponceDTO\\carresponseDTO.cs",
+              "RelativeToolTip": "Carrental\\Dtos\\ResponceDTO\\carresponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:56:40.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerRequestDTO.cs",
+              "DocumentMoniker": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Dtos\\RequestDTO\\CustomerRequestDTO.cs",
+              "RelativeDocumentMoniker": "Carrental\\Dtos\\RequestDTO\\CustomerRequestDTO.cs",
+              "ToolTip": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Dtos\\RequestDTO\\CustomerRequestDTO.cs",
+              "RelativeToolTip": "Carrental\\Dtos\\RequestDTO\\CustomerRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:03:07.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "carrequestDTO.cs",
+              "DocumentMoniker": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Dtos\\RequestDTO\\carrequestDTO.cs",
+              "RelativeDocumentMoniker": "Carrental\\Dtos\\RequestDTO\\carrequestDTO.cs",
+              "ToolTip": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Dtos\\RequestDTO\\carrequestDTO.cs",
+              "RelativeToolTip": "Carrental\\Dtos\\RequestDTO\\carrequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:56:34.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\Controllers\\CustomerController.cs",
+              "DocumentMoniker": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Carrental\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "Carrental\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDMAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T07:17:40.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\Services\\CustomerService.cs",
-              "RelativeDocumentMoniker": "Carrental\\Services\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\Services\\CustomerService.cs",
-              "RelativeToolTip": "Carrental\\Services\\CustomerService.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAD4v2IAAAA3AAAA",
+              "DocumentIndex": 16,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "Carrental\\Controllers\\CarController.cs",
+              "ToolTip": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Controllers\\CarController.cs",
+              "RelativeToolTip": "Carrental\\Controllers\\CarController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T07:17:38.425Z",
+              "WhenOpened": "2024-10-17T05:52:27.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\Repositoies\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "Carrental\\Repositoies\\CustomerRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\Repositoies\\CustomerRepository.cs",
-              "RelativeToolTip": "Carrental\\Repositoies\\CustomerRepository.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAAAHEAAAABAAAA",
+              "DocumentIndex": 17,
+              "Title": "CustomerResponceDTO.cs",
+              "DocumentMoniker": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Dtos\\ResponceDTO\\CustomerResponceDTO.cs",
+              "RelativeDocumentMoniker": "Carrental\\Dtos\\ResponceDTO\\CustomerResponceDTO.cs",
+              "ToolTip": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Dtos\\ResponceDTO\\CustomerResponceDTO.cs",
+              "RelativeToolTip": "Carrental\\Dtos\\ResponceDTO\\CustomerResponceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T07:17:36.014Z",
+              "WhenOpened": "2024-10-17T06:03:13.869Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 435,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

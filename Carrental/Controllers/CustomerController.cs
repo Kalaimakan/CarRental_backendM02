@@ -40,7 +40,7 @@ namespace Carrental.Controllers
                 return NotFound("Customer not found");
                 return Ok(result);       
          
-        }
+    }
 
 
         [HttpDelete("{id}")]

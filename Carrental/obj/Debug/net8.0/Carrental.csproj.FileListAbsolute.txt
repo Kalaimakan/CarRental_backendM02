@@ -291,3 +291,14 @@ C:\Users\ASUS\Desktop\Carrental\Carrental\obj\Debug\net8.0\scopedcss\bundle\Carr
 C:\Users\ASUS\Desktop\Carrental\Carrental\obj\Debug\net8.0\Carrental.csproj.Up2Date
 C:\Users\ASUS\Desktop\Carrental\Carrental\obj\Debug\net8.0\Carrental.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\Carrental\Carrental\obj\Debug\net8.0\ref\Carrental.dll
+E:\BACK-END 18.10\Merge\CarRental_backendM02\Carrental\obj\Debug\net8.0\Carrental.csproj.AssemblyReference.cache
+E:\BACK-END 18.10\Merge\CarRental_backendM02\Carrental\obj\Debug\net8.0\Carrental.GeneratedMSBuildEditorConfig.editorconfig
+E:\BACK-END 18.10\Merge\CarRental_backendM02\Carrental\obj\Debug\net8.0\Carrental.AssemblyInfoInputs.cache
+E:\BACK-END 18.10\Merge\CarRental_backendM02\Carrental\obj\Debug\net8.0\Carrental.AssemblyInfo.cs
+E:\BACK-END 18.10\Merge\CarRental_backendM02\Carrental\obj\Debug\net8.0\Carrental.csproj.CoreCompileInputs.cache
+E:\BACK-END 18.10\Merge\CarRental_backendM02\Carrental\obj\Debug\net8.0\Carrental.MvcApplicationPartsAssemblyInfo.cs
+E:\BACK-END 18.10\Merge\CarRental_backendM02\Carrental\obj\Debug\net8.0\Carrental.MvcApplicationPartsAssemblyInfo.cache
+E:\BACK-END 18.10\Merge\CarRental_backendM02\Carrental\obj\Debug\net8.0\Carrental.sourcelink.json
+E:\BACK-END 18.10\Merge\CarRental_backendM02\Carrental\obj\Debug\net8.0\Carrental.dll
+E:\BACK-END 18.10\Merge\CarRental_backendM02\Carrental\obj\Debug\net8.0\refint\Carrental.dll
+E:\BACK-END 18.10\Merge\CarRental_backendM02\Carrental\obj\Debug\net8.0\Carrental.pdb

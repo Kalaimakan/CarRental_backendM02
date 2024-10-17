@@ -24,6 +24,15 @@ namespace Carrental
             builder.Services.AddScoped<ICustomerService, CustomerService>();
 
 
+            //customer
+            builder.Services.AddScoped<ICustomerRepository>(provider=>new CustomerRepository(connectionstring));
+            builder.Services.AddScoped<ICustomerService, CustomerService>();
+
+            //car
+            builder.Services.AddScoped<Icarrepository>(Provider => new Carrepository(connectionstring));
+            builder.Services.AddScoped<Icarservice, Carservice>();
+
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

@@ -4559,19 +4559,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\thenu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\Carrental.csproj",
+      "projectUniqueName": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Carrental.csproj",
       "projectName": "Carrental",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\Carrental.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\obj\\",
+      "projectPath": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Carrental.csproj",
+      "packagesPath": "C:\\Users\\thenu\\.nuget\\packages\\",
+      "outputPath": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\thenu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4655,8 +4655,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

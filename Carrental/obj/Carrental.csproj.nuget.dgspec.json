@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\Carrental.csproj": {}
+    "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Carrental.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\Carrental.csproj": {
+    "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Carrental.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\Carrental.csproj",
+        "projectUniqueName": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Carrental.csproj",
         "projectName": "Carrental",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\Carrental.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\Carrental\\Carrental\\obj\\",
+        "projectPath": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\Carrental.csproj",
+        "packagesPath": "C:\\Users\\thenu\\.nuget\\packages\\",
+        "outputPath": "E:\\BACK-END 18.10\\Merge\\CarRental_backendM02\\Carrental\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thenu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -98,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
